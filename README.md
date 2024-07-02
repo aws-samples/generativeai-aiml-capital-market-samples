@@ -3,7 +3,7 @@
 This repository contains solutions on Generative AI and AI/ML for Capital Markets
 
 - [Hypothesis testing and financial statement analysis with Amazon Bedrock](https://github.com/aws-samples/generativeai-aiml-capital-market-samples/tree/main/hypothesis-testing-financial-statement-analysis-with-Amazon-Bedrock)
-    - [Hypotheis testing](https://github.com/aws-samples/generativeai-aiml-capital-market-samples/tree/main/hypothesis-testing-financial-statement-analysis-with-Amazon-Bedrock/Hypothesis%20Testing)
+    - [Hypothesis testing](https://github.com/aws-samples/generativeai-aiml-capital-market-samples/tree/main/hypothesis-testing-financial-statement-analysis-with-Amazon-Bedrock/Hypothesis%20Testing)
     - [Financial Analysis](https://github.com/aws-samples/generativeai-aiml-capital-market-samples/tree/main/hypothesis-testing-financial-statement-analysis-with-Amazon-Bedrock/Financial%20Analysis)
 
 ## Security
