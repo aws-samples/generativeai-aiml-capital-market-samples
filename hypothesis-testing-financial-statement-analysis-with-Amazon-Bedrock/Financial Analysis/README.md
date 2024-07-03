@@ -20,12 +20,6 @@ Once all the packages are installed, run the following command to experiment wit
 ```python
 streamlit run app.py --server.enableXsrfProtection=false
 ```
-## Video
-![](https://gitlab.aws.dev/genai-for-capital-markets/hypothesis-testing-and-cause-effect-analysis-for-investment-research/-/blob/e4faffde234ea1a37f7142dba9f2adbc09dd98a0/Financial%20Analysis/Financial-Analysis.gif)
-## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
 
