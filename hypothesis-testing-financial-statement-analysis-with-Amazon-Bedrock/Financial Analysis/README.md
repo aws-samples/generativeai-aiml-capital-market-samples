@@ -1,10 +1,10 @@
 # Financial data analysis with Anthropic Claude 3 Sonnet in Amazon Bedrock
 
-Utilizing Anthropic Claude 3 Sonnet on Amazon Bedrock using image, text data and prompts
+Financial statement analysis for investment research with Anthropic Claude 3 Sonnet on Amazon Bedrock using image, text data, and prompts.
 
-## Introduction
+[Financial statement analysis](https://github.com/aws-samples/generativeai-aiml-capital-market-samples/blob/main/hypothesis-testing-financial-statement-analysis-with-Amazon-Bedrock/Financial%20Analysis/Financial%20statement%20analysis.mp4)
 
-Prompt engineering and advanced prompting are powerful techniques that allow users to guide and shape the behavior of large language models (LLMs). By crafting well-designed prompts, business users and analysts in financial services can leverage the knowledge and capabilities of LLMs with enterprise-specific information to perform a wide range of tasks with remarkable effectiveness and efficiency. The strength of prompt engineering lies in its ability to distill complex queries or instructions into concise, yet expressive prompts that can elicit highly relevant and coherent responses. This technique enables business users to leverage the model's natural language understanding, reasoning and generation capabilities to tackle challenges ranging from text summarization, data analysis and interpretation, and financial calculations. Advanced prompting techniques, such as few-shot learning and chain-of-thought prompting, further enhance the models' performance by providing exemplars or step-by-step reasoning processes, enabling them to exhibit human-like reasoning and problem-solving abilities. Prompt engineering and advanced prompting empower analysts to harness the full potential of LLMs as well as their hidden reasoning capabilities. Using Anthropic's Claude 3 Sonnet model on Amazon Bedrock with financial data can enable financial analysts to provide contextual insights from various data modalities (image, text) combining with advanced prompting. It can help enhance analysts' productivity through the ability to perform financial analysis and calculations efficiently using natural language (English) prompts, thereby reducing time.
+https://github.com/aws-samples/generativeai-aiml-capital-market-samples/assets/122630864/0620b796-3ec4-4770-a1ca-f3d273f87a2e
 
 
 ## Installation
