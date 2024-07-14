@@ -14,7 +14,8 @@ https://github.com/aws-samples/generativeai-aiml-capital-market-samples/assets/1
 ### - Hypothesis Testing
 Capital markets customers have access to information about macroeconomic events and index price movements, which can be leveraged by research analysts and quantitative analysts to study the relationship between these events and their impact on index prices. We show how Anthropic's Claude 3 Sonnet on Amazon Bedrock can analyze the impact of macroeconomic events on index prices, incorporating multi-modal data (image and text) with macroeconomic event information, to gain insights like impact of inflation or geopolitics on index price action. Dive deep in the solution for [Hypothesis Testing including codes](https://github.com/aws-samples/generativeai-aiml-capital-market-samples/tree/main/hypothesis-testing-financial-statement-analysis-with-Amazon-Bedrock/Hypothesis%20Testing).
 
-https://github.com/aws-samples/generativeai-aiml-capital-market-samples/assets/122630864/30c5f468-aa26-4ce8-9693-f8ebd0fff166
+https://github.com/user-attachments/assets/5b055b50-79f6-4808-876a-6944c1e748f4
+
 
 ## License
 This library is licensed under the [MIT-0 License](https://github.com/aws-samples/generativeai-aiml-capital-market-samples/blob/main/hypothesis-testing-financial-statement-analysis-with-Amazon-Bedrock/LICENSE.txt).
