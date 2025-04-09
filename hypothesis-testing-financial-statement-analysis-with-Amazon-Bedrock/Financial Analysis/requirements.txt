@@ -2,7 +2,7 @@ boto3==1.34.101
 botocore==1.34.101
 jupyterlab==3.6.8
 pandas==1.5.3
-sagemaker==2.219.0
+sagemaker==2.237.3
 streamlit==1.37.0
 streamlit-extras==0.4.2
 streamlit-faker==0.0.3
